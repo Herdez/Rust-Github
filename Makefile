@@ -12,6 +12,9 @@ format:
 lint:
 	cargo clippy --quiet
 
+update:
+	rustup update
+
 test:
 	cargo test
 

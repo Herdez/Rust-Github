@@ -7,6 +7,7 @@ use trust::sub;
 
 fn main() {
     println!("Hello, world!");
+    println!("This is a simple Rust project");
     println!("add(1, 2) = {}", add(1, 2));
     println!("sub(1, 2) = {}", sub(1, 2));
     println!("mul(1, 2) = {}", mul(1, 2));
